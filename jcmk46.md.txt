@@ -1,0 +1,20 @@
+
+Review
+======
+## i Interest of Content
+Sound, the information is waffly, and doesn't indictate much research. However, this is the kettle calling the pot black.
+
+## ii Conistency and Quality of Visuaul Presentation
+Very Good. The colour scheme used was very apropriate, although the use of gray in sub headings/titles was inconsistent, with on splitting a title into two colours.
+Where present, pictures are used well, and in particular, Milo Stephens' webpage is neatly presented, although his choice to drop capital leters was not maintained on the
+other webpages.
+
+# iii Quality of Written presentation
+Excellent. There is a liberal use of lists to break up information into manageable bits.
+
+## iv Validity of html
+Very Good. Consistent neglection of the language for the webpage. Occasional lack of closing footer tags, and often neglect of an alt for images. No catastrophic failures.
+
+## v Evidence of collaboration
+Good. Although some of the final details were only finished up at the start of the session, like the addition of the navbar to all the tables, the main content had been completed
+within adequate time. The author information was not written by the author, and the contributions seem balanced, with each team member producing one page.
